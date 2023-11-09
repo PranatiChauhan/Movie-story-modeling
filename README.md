@@ -1,4 +1,4 @@
-# Movie-story-modelling
+# Movie-story-modeling
 
 <b>Step 1:</b> Explore all files to become familiar with the dataset <br />
 <b>Step 2:</b> There are 20,000 movies in `movie_story_student_file.csv`file. Use the `movies.csv` file to determine whether a movie is Drama or not. The final output of this step should be development of a dataframe file that contains three columns: 1) movieId, 2) story, 3) DramaGenre. The value for the third column should be in a binary format. If the movie is drama the value should be 1, otherwise 0. Name the new file as `main_dataset`. <br />
